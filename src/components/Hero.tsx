@@ -17,7 +17,7 @@ export function Hero() {
             Jose Velasco
           </h1>
           <p className="mt-5 text-xl font-medium text-accent-600 dark:text-accent-400">
-            Computer Science Student | Software Developer
+            Computer Science Student
           </p>
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <ButtonLink href="#experience">
