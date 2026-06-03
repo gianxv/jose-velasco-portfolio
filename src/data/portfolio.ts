@@ -11,7 +11,7 @@ export const navItems: NavItem[] = [
 
 export const experiences: ExperienceItem[] = [
   {
-    role: 'Student Helper',
+    role: 'Intern',
     organization: 'Hawai‘i Department of Transportation Airports Division',
     timeframe: 'Current',
     summary:
