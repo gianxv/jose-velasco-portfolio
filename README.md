@@ -62,17 +62,6 @@ Update `src/data/portfolio.ts` with your email, LinkedIn, GitHub, skills, and ex
 
 The contact form currently opens a prefilled email draft using `mailto:` so it works without service credentials. To use EmailJS, replace the submit handler in `src/components/Contact.tsx` with your EmailJS service, template, and public key configuration.
 
-## Deployment to Vercel
-
-1. Push this repository to GitHub.
-2. Sign in to [Vercel](https://vercel.com).
-3. Select **Add New Project** and import the GitHub repository.
-4. Keep the default Vite settings:
-   - Framework Preset: `Vite`
-   - Build Command: `npm run build`
-   - Output Directory: `dist`
-5. Deploy.
-
 ## Screenshots
 
 Add screenshots after deployment:
