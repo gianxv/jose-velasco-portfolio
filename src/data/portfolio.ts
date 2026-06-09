@@ -23,6 +23,13 @@ export const experiences: ExperienceItem[] = [
       'Process improvements',
     ],
   },
+  {
+    role: 'Incoming Intern',
+    organization: 'Earth Consciousness Institute',
+    timeframe: 'Incoming Summer 2026',
+    summary: 'Incoming Summer 2026',
+    highlights: [],
+  },
 ];
 
 export const skillGroups: SkillGroup[] = [
